@@ -1,5 +1,9 @@
 # requierements.txt
-snowflake-connector-python
+#snowflake-connector-python
+
+#extra == "pandas"
+charset-normalizer==2.0.12
+snowflake-connector-python==2.7.9
 
 cffi==1.15.0
 pyarrow<8.1.0,>=8.0.0
